@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- py -m SimpleHTTPServer, Shrink-O-Matic -->
+<head>
+
+	<meta charset = "utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> TJ Latin </title>
+	<!-- Bootstrap -->
+	<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+	<link href="styles/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="styles/ekko-lightbox.min.css"/>
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.css"/>
+	<link rel="stylesheet" type="text/css" href="styles/mystyle.css"/>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+</head>
+
+
+<body ng-app="LHSWeb" ng-controller="NavCtrl as nav">
+
+	<nav id="topnavbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container-fluid" style="background-color:#A1499E">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#"><img height="100%" src="img/websitelogo.png"></a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li ng-class="{active: isActive('/home')}"><a ui-sref="home">Home</a></li>
+					<li ng-class="{active: isActive('/about')}"><a ui-sref="about">About Us</a></li>
+					<li class="dropdown">
+						<a href="" class="dropdown-toggle" data-toggle="dropdown">Events <span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li ng-class="{active: isActive('/scribe')}"><a ui-sref="scribe">Newsletter</a></li>
+							<li class="divider"></li>
+							<li ng-class="{active: isActive('/image')}"><a ui-sref="image">Pictures</a></li>
+							<li class="divider"></li>
+							<li ng-class="{active: isActive('/calendar')}"><a ui-sref="calendar">Calendar</a></li>
+							<li class="divider"></li>
+							<li ng-class="{active: isActive('/convention')}"><a ui-sref="convention">Convention</a></li>
+						</ul>
+					</li>
+
+					<li class="dropdown">
+						<a href="" class="dropdown-toggle" data-toggle="dropdown">Academic <span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<!--<li ng-class="{active: isActive('/forum')}"><a ui-sref="forum">Forum Romanum</a></li>
+							<li class="divider"></li>-->
+							<li ng-class="{active: isActive('/studyguides')}"><a ui-sref="studyguides">Study Guides</a></li>
+							<li class="divider"></li>
+							<li ng-class="{active: isActive('/interactivequizzes')}"><a ui-sref="interactivequizzes">Interactive Quizzes</a></li>
+							<li class="divider"></li>
+							<li ng-class="{active: isActive('/conventiontests')}"><a ui-sref="conventiontests">Convention Tests</a></li>
+						</ul>
+					</li>
+
+					<li class="dropdown">
+						<a href="" class="dropdown-toggle" data-toggle="dropdown">Awards <span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li ng-class="{active: isActive('/2013awards')}"><a ui-sref="2013awards">2013-2014 List</a></li>
+							<li ng-class="{active: isActive('/2014awards')}"><a ui-sref="2014awards">2014-2015 List</a></li>
+							<li ng-class="{active: isActive('/2015awards')}"><a ui-sref="2015awards">2015-2016 List</a></li>
+						</ul>
+					</li>
+                    <li ng-class="{active: isActive('/links')}"><a ui-sref="links">Links</a></li>
+					<li ng-class="{active: isActive('/blog')}"><a ui-sref="blog">Blog</a></li>
+
+				</ul>
+				
+				<ul class="nav navbar-nav navbar-right">
+					<li><a ui-sref="sitemap">Site Map</a></li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+
+	<div class="container" style="padding-top:65px">
+		<div ui-view></div>
+ 	</div> <!-- end container -->
+
+	<!-- including scripts -->
+	<script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src = "scripts/bootstrap.min.js"></script>
+	<script src = "https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+	<script src = "scripts/angular-ui-router.min.js"></script>
+	<script src = "scripts/ui-router-styles.js"></script>
+	<script src = "scripts/ui-bootstrap-custom-tpls-0.12.0.min.js"></script>
+	<script type= "text/javascript" src="slick/slick.min.js"></script>
+	<script type= "text/javascript" src="scripts/ekko-lightbox.min.js"></script>
+	<script type= "text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+	<script type= "text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.js"></script>
+	<script type= "text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/gcal.js"></script>
+    <script src="scripts/modernizr.custom.js"></script>
+	<script src="scripts/grid.js"></script>
+	<script src = "scripts/app.js"></script>
+
+	<script type="text/javascript">
+    $(document).ready(function ($) {
+
+        // delegate calls to data-toggle="lightbox"
+        $(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+            event.preventDefault();
+            return $(this).ekkoLightbox({
+                onShown: function() {
+                    if (window.console) {
+                        return console.log('Checking our the events huh?');
+                    }
+                },
+                onNavigate: function(direction, itemIndex) {
+                    if (window.console) {
+                        return console.log('Navigating '+direction+'. Current item: '+itemIndex);
+                    }
+                }
+            });
+        });
+
+        //Programatically call
+        $('#open-image').click(function (e) {
+            e.preventDefault();
+            $(this).ekkoLightbox();
+        });
+
+        $('#open-youtube').click(function (e) {
+            e.preventDefault();
+            $(this).ekkoLightbox();
+        });
+
+
+    });
+</script>
+
+
+
+</body>
+
+</html>

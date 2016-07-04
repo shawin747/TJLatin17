@@ -1,0 +1,26 @@
+<div class="container">
+	<div class="row"  ng-repeat="article in articles">
+		<article>
+			<h1 style="text-align:center;"> {{article.title}} </h1>
+			<div class="row row-centered">
+				<div class="col-md-6 col-sm-12 col-centered">
+					<h4> Posted by: {{article.author}} on {{article.date}} </h3>
+				</div>
+
+				<div class="col-md-3 col-sm-12 col-centered">
+					<h4> <span style="float:right;"> <span class="glyphicon glyphicon-time"></span> {{approximateTime(articles[$index].text)}} mins </span></h3>
+				</div>
+			</div>
+			<div class="row row-centered">
+				<div class="col-md-9 col-sm-12 col-xs-12 col-centered" ng-style="{'background-image':'url(https://activities.tjhsst.edu/latin/img/blogphotos/'+article.banner+')', 'background-size':'cover', 'background-position':'center', 'height': '350px'}">
+				</div>
+			</div>
+			<div class="row row-centered" style="padding-top:10px">
+				<div class="col-md-9 xs-12 col-centered">
+					<p ng-bind-html="trustAsHtml(articles[$index].text)">
+					</p> 
+				</div>
+			</div>
+		</article>
+	</div>
+</div>
