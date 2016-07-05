@@ -124,7 +124,7 @@
 	        };
 	    })
 	    .controller('ScribeCtrl', function ($scope, $sce) {
-	        $scope.currentUrl = $sce.trustAsResourceUrl("https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true");
+	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview");
 
 	        $scope.yearLinks = {
 	            "2016": [
@@ -132,6 +132,10 @@
 	                    month: "Winter",
 	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true"
 	                },
+                    {
+                        month: "Summer",
+                        link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
+                    }
                 ],
 	            "2015": [
 	                {
