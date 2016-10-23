@@ -127,38 +127,6 @@
 	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview");
 
 	        $scope.yearLinks = {
-	            "2016": [
-	                {
-	                    month: "Winter",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true"
-	                },
-                    {
-                        month: "Summer",
-                        link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
-                    }
-                ],
-	            "2015": [
-	                {
-	                    month: "Fall",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FFall.pdf&embedded=true"
-	                },
-				],
-	            "2014": [
-	                {
-	                    month: "Fall",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FSept_Oct.pdf&embedded=true"
-	                },
-	                {
-	                    month: "Winter",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FWinter.pdf&embedded=true"
-	                }
-				],
-	            "2013": [
-	                {
-	                    month: "September/October",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
-	                }
-				],
 	            "2012": [
 	                {
 	                    month: "September/October",
@@ -173,6 +141,38 @@
 	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FJan_Feb.pdf&embedded=true"
 	                }
 				],
+			"2013": [
+	                {
+	                    month: "September/October",
+	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
+	                }
+				],
+			"2014": [
+	                {
+	                    month: "Fall",
+	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FSept_Oct.pdf&embedded=true"
+	                },
+	                {
+	                    month: "Winter",
+	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FWinter.pdf&embedded=true"
+	                }
+				],
+			"2015": [
+	                {
+	                    month: "Fall",
+	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FFall.pdf&embedded=true"
+	                },
+				],
+			"2016": [
+	                {
+	                    month: "Winter",
+	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true"
+	                },
+                    {
+                        month: "Summer",
+                        link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
+                    }
+                ],
 	        };
 
 	        $scope.setNewSource = function (url) {
