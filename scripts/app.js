@@ -38,8 +38,8 @@
 	        $scope.Math = window.Math;
 	        $scope.articles = [
 			{
-				author:"Emily Wang, Anshu Sharma", 
-				date:"November 30th, 2016",
+				author:"Emily Wang and Anshu Sharma", 
+				date:"November 30, 2016",
 				title:"Rapid Beginnings", 
 				banner: "beginning.jpg",
 				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! I'm Emily Wang, and I'm the new webmaster! So many events have happened since the executive board election two months ago, and I've been working to keep this site updated! First, here's an update about the VJCL Convention on November 20-21 from your editor, Anshu Sharma. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honestly, what is there to be said that hasn’t been said already? Put simply, this was an amazing convention, in terms of the organization of the event itself, the awards TJ Latin won, the electoral success we enjoyed, and the spirit and friendship we exhibited with each other and with other VJCLers. Yes, I’ll miss State Conventions as a JCLer, but I’m so glad that this last one went so well. And that goes for my time in TJ Latin in general: I can’t exaggerate how much I’ve enjoyed TJ Latin over these past three years, and I’ll sorely miss it, but I’m so honored to serve as your Editor this final year. If you haven’t already, check out photos from this year’s convention. And as you celebrate the past, don’t forget to look to the future! Coming up soon are in-class Saturnalia celebrations, the LHS induction, Convention Roundup, various Certamina, fun eighth period activities for Lupercalia and Rome’s birthday, and more! If you have any questions about these activities or about how you can get more involved in our Latin Club, please don’t hesitate to ask either of our magistrae or any of our officers. Oh, and you did know that you can write material to be published in our bimonthly newsletter, the Scribe? You DIDN’T? Contact me on Facebook or email me at anshu.g.sharma@gmail.com for more information on that! This is your club, and your club members want to hear from YOU. Let your voice be heard! Until next time!",
