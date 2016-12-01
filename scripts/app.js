@@ -210,7 +210,7 @@
 	                    title: "VJCL Convention",
 	                    description: "Every year, TJ brings many students to VJCL Convention in Richmond. This year, the convention took place on November 20-21. These pictures show TJ students participating in spirit and winning awards! Our consuls, Stephanie Do and Rebecca Mays, won best in show for their costume of Priam and Hecuba! A huge thank you to Stephanie Do's dad, Nhan Do, for these pictures!",
 	                    thumbnail: "img/albums/convention2016/47.jpg",
-	                    filepath: "convention20162016",
+	                    filepath: "convention2016",
 	                    images: [
 	                        {
 	                            title: '',
