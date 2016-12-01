@@ -206,6 +206,199 @@
 	        $scope.years = ["2016", "2015", "2014"];
 	        $scope.thumbs = {
 	            "2016": [
+			    {
+	                    title: "VJCL Convention",
+	                    description: "Every year, TJ brings many students to VJCL Convention in Richmond. This year, the convention took place on November 20-21. These pictures show TJ students participating in spirit and winning awards! Our consuls, Stephanie Do and Rebecca Mays, won best in show for their costume of Priam and Hecuba! A huge thank you to Stephanie Do's dad, Nhan Do, for these pictures!",
+	                    thumbnail: "img/albums/convention2016/47.jpg",
+	                    filepath: "convention20162016",
+	                    images: [
+	                        {
+	                            title: '',
+	                            filename: '1.jpg'
+						}, {
+	                            title: '',
+	                            filename: '2.jpg'
+						}, {
+	                            title: '',
+	                            filename: '3.jpg'
+						}, {
+	                            title: '',
+	                            filename: '4.jpg'
+						}, {
+	                            title: '',
+	                            filename: '5.jpg'
+						}, {
+	                            title: '',
+	                            filename: '6.jpg'
+						}, {
+	                            title: '',
+	                            filename: '7.jpg'
+						}, {
+	                            title: '',
+	                            filename: '8.jpg'
+						}, {
+	                            title: '',
+	                            filename: '9.jpg'
+						}, {
+	                            title: '',
+	                            filename: '10.jpg'
+						}, {
+	                            title: '',
+	                            filename: '11.jpg'
+						}, {
+	                            title: '',
+	                            filename: '12.jpg'
+						}, {
+	                            title: '',
+	                            filename: '13.jpg'
+						}, {
+	                            title: '',
+	                            filename: '14.jpg'
+						}, {
+	                            title: '',
+	                            filename: '15.jpg'
+						}, {
+	                            title: '',
+	                            filename: '16.jpg'
+						}, {
+	                            title: '',
+	                            filename: '17.jpg'
+						}, {
+	                            title: '',
+	                            filename: '18.jpg'
+						}, {
+	                            title: '',
+	                            filename: '19.jpg'
+						}, {
+	                            title: '',
+	                            filename: '20.jpg'
+						}, {
+	                            title: '',
+	                            filename: '21.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '22.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '23.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '24.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '25.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '26.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '27.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '28.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '29.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '30.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '31.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '32.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '33.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '34.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '35.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '36.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '37.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '38.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '39.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '40.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '41.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '42.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '43.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '44.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '45.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '46.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '47.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '48.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '49.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '50.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '51.jpg'
+						},
+				    
+					]
+	                },
 	                {
 	                    title: "Rome's Birthday",
 	                    description: "We celebrate April 21, Rome's birthday, in a variety of ways! First, we have a she-wolf pinata filled with candy to represent the founding story of Rome. We then do a 'boulder throw' that is reminiscent of Turnus's boulder-throwing competition with Aeneas. Finally, we have a hurdle competition where students must jump over the 'walls' of Rome, which get loftier and loftier with each pass!",
