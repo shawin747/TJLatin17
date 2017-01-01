@@ -190,7 +190,7 @@
                 ],
 			"2017": [
 	                {
-	                    month: "Winter",
+	                    month: "Fall",
 	                    link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview"
 	                },
 		],
