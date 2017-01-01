@@ -193,6 +193,7 @@
 	                    month: "Winter",
 	                    link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/view"
 	                },
+		],
 	        };
 
 	        $scope.setNewSource = function (url) {
