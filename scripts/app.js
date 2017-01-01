@@ -132,7 +132,7 @@
 	        };
 	    })
 	    .controller('ScribeCtrl', function ($scope, $sce) {
-	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview");
+	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/view");
 
 	        $scope.yearLinks = {
 	            "2012": [
@@ -181,6 +181,11 @@
                         link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
                     }
                 ],
+			"2017": [
+	                {
+	                    month: "Winter",
+	                    link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/view"
+	                },
 	        };
 
 	        $scope.setNewSource = function (url) {
