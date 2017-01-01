@@ -38,6 +38,13 @@
 	        $scope.Math = window.Math;
 	        $scope.articles = [
 			{
+				author:"Emily Wang", 
+				date:"January 1, 2017",
+				title:"New Year", 
+				banner: "2017.jpg",
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Happy new year everyone! I’m super excited for 2017-I have a feeling it’s going to be the best year yet! It’s also going to be filled with Latin events, starting with our Convention Roundup where we recap everything that happened at VJCL Convention in November, hand out awards, and most importantly, eat! In January, we start practices for INite, which is TJ’s annual showcase where many clubs, including Latin Club, perform. We also have the LHS Induction Ceremony, bringing many Latin III’s into our wonderful Latin cult/family. Finally, we have two Certamina coming up, one at Flint Hill, and one at TJ! I hope you all are ready for a busy few months and follow along with this site! ",
+			},
+			{
 				author:"Emily Wang and Anshu Sharma", 
 				date:"November 30, 2016",
 				title:"Rapid Beginnings", 
