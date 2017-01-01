@@ -1961,6 +1961,10 @@
 	                url: '/2015awards',
 	                templateUrl: 'views/2015awards.html',
 	            })
+		    .state('2016awards', {
+	                url: '/2016awards',
+	                templateUrl: 'views/2016awards.html',
+	            })
 	            .state('sitemap', {
 	                url: '/sitemap',
 	                templateUrl: 'views/sitemap.html',
