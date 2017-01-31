@@ -265,9 +265,9 @@
 	            "2016": [
 			    {
 	                    title: "VJCL Convention",
-	                    description: "Every year, TJ brings many students to VJCL Convention in Richmond. This year, the convention took place on November 20-21. These pictures show TJ students participating in spirit and winning awards! Our consuls, Stephanie Do and Rebecca Mays, won best in show for their costume of Priam and Hecuba! A huge thank you to Stephanie Do's dad, Nhan Do, for these pictures!",
-	                    thumbnail: "img/albums/convention2016/47.jpg",
-	                    filepath: "convention2016",
+	                    description: "Every year, TJ brings many students to VJCL Convention in Richmond. This year, the convention took place on November 20-21. These pictures show TJ students participating in spirit and winning awards! TJ took first place in the spirit competition and our consuls, Stephanie Do and Rebecca Mays, won best in show for their costume of Priam and Hecuba! In addition, our students won many awards in graphic arts, academic tests, and creative arts! A huge thank you to Stephanie Do's dad, Nhan Do, for these pictures!",
+	                    thumbnail: "img/albums/convention2016fix/21.jpg",
+	                    filepath: "convention2016fix",
 	                    images: [
 	                        {
 	                            title: '',
@@ -453,6 +453,42 @@
 	                            title: '',
 	                            filename: '51.jpg'
 						},
+				    {
+	                            title: '',
+	                            filename: '52.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '53.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '54.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '55.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '56.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '57.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '58.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '59.jpg'
+						},
+				    {
+	                            title: '',
+	                            filename: '60.jpg'
+						}
 				    
 					]
 	                },
