@@ -216,8 +216,52 @@
 	    .controller('ImageCtrl', function ($scope, $sce) {
 	        $scope.browsingAlbums = true;
 
-	        $scope.years = ["2016", "2015", "2014"];
+	        $scope.years = ["2017", "2016", "2015", "2014"];
 	        $scope.thumbs = {
+			"2017": [ 
+				{
+					title: "LHS Induction", 
+					description: "Our Latin III and a few AP Latin students were inducted into our highly prestigious Latin cult/society! These pictures were taken by our artifex, Hannah Kim.",
+					thumbnail:"img/albums/induction2017/4.jpg", 
+					filepath:"induction2017",
+					images:[
+						{
+	                            title: 'With Students Having Been Inducted',
+	                            filename: '1.jpg'
+						}, {
+	                            title: 'Newly Inducted Reges Certaminis!',
+	                            filename: '2.jpg'
+						}, {
+	                            title: 'Fight!',
+	                            filename: '3.jpg'
+						},{
+	                            title: 'Giving Flowers to the Inductees',
+	                            filename: '4.jpg'
+						},{
+	                            title: 'Bonam Fortunam Cookie Cake',
+	                            filename: '5.jpg'
+						},{
+	                            title: 'The Flame of Knowledge',
+	                            filename: '6.jpg'
+						},{
+	                            title: 'The Spirits of Latin',
+	                            filename: '7.jpg'
+						},{
+	                            title: 'The Handing Out of Flowers',
+	                            filename: '8.jpg'
+						},{
+	                            title: 'Eternal Fire of Latin',
+	                            filename: '9.jpg'
+						},{
+	                            title: 'Cutting the Apple of Knowledge Open',
+	                            filename: '10.jpg'
+						},{
+	                            title: 'More Cute Latin IIIs!',
+	                            filename: '11.jpg'
+						}
+						]
+				}
+				], 
 	            "2016": [
 			    {
 	                    title: "VJCL Convention",
