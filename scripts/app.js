@@ -38,6 +38,13 @@
 	        $scope.Math = window.Math;
 	        $scope.articles = [
 			{
+				author:"Emily Wang and Robert Kim",
+				date:"February 1, 2017", 
+				title: "The Frozen Aeneid Theory", 
+				banner:"anna.jpg", 
+				text:"",
+			},
+			{
 				author:"Emily Wang", 
 				date:"January 1, 2017",
 				title:"New Year", 
@@ -220,7 +227,7 @@
 	        $scope.thumbs = {
 			"2017": [ 
 				{
-					title: "LHS Induction", 
+					title: "Induction Ceremony", 
 					description: "Our Latin III and a few AP Latin students were inducted into our highly prestigious Latin cult/society! These pictures were taken by our artifex, Hannah Kim.",
 					thumbnail:"img/albums/induction2017/4.jpg", 
 					filepath:"induction2017",
