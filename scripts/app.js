@@ -42,7 +42,7 @@
 				date:"February 1, 2017", 
 				title: "The Frozen Aeneid Theory", 
 				banner:"anna.jpg", 
-				text:"",
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This past month, we've inducted new members into our world renowned Latin Honor Society. We also went to Flint Hill Certamen and did amazingly well, answering tossups and defeating foes. The VJCL canned food drive at Flint Hill was also a success, bringing in many cans for the Capital Area Food Bank. Most importantly, one of our officers, Robert Kim, has discovered a brand new Aeneid theory. I’ll try to recap it and blow your minds too. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What do you notice in the picture of Dido and Anna? That's right, a white streak in her hair. Almost like ice or something. Who else has a white streak in her hair, from a popular 2013 movie? ANNA! In Book 4 of the Aeneid, line 705, it says, “the heat of life escaped her body.” This can also be used to describe Anna when she froze to death in Frozen. Furthermore, Dido is Anna’s sister, and another name for Dido is Elisa. Elisa, Elsa...sounds suspiciously similar. King Iarbas is the Duke of Weselton, unwelcome suitors in both the Aeneid and Frozen. Aeneas is Prince Hans, both men who came to Elisa/Elsa’s kingdom and ruined their relationship in the end. Olaf is Cupid as Ascanius, who Dido found a companion in. Rumor is Kristoff and his reindeer, as the Aeneid  describes Rumor as “compared with whom none other is as fast.” Lastly, from Book 4, “verum anceps pugnae fuerat fortuna. fuisset:”, or translated, “it is true that the fortunes of war are uncertain. let it be.” Let it be, or let it go??? ",
 			},
 			{
 				author:"Emily Wang", 
