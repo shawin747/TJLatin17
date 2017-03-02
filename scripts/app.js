@@ -217,7 +217,7 @@
 				{
 				title: "TJ Certamen", 
 				description: "This year, we hosted our somewhat annual TJ Certamen! We had two divisions in each level this year, open and competitive, to encourage everyone to play regardless of skill. We also continued having students write the questions. TJ Certamen is always a busy time of the year but so rewarding. We can't wait to host again next year (and hopefully our school will finish renovation by then!) Pictures generously provided by Adam Ashley from Falls Church.",
-				thumbnail:"img/albums/tjcertamen2017/4.jpg", 
+				thumbnail:"img/albums/tjcertamen2017/17.jpg", 
 				filepath:"tjcertamen2017",
 				images:[
 				{
