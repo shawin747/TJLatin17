@@ -1,7 +1,5 @@
 	var app = angular
-	    .module('LHSWeb', [
-			'ui.router', 'uiRouterStyles', 'ui.bootstrap',
-		])
+	    .module('LHSWeb', ['ui.router', 'uiRouterStyles', 'ui.bootstrap',])
 	app.controller('NavCtrl', function ($scope, $location) {
 	        $scope.isActive = function (route) {
 	            return route === $location.path();
@@ -151,57 +149,47 @@
 	        $scope.yearLinks = {
 	            "2012": [
 	                {
-	                    month: "September/October",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FSept_Oct.pdf&embedded=true"
+	                    month: "September/October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FSept_Oct.pdf&embedded=true"
 	                },
 	                {
-	                    month: "November/December",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FNov_Dec.pdf&embedded=true"
+	                    month: "November/December", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FNov_Dec.pdf&embedded=true"
 	                },
 	                {
-	                    month: "January/February",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FJan_Feb.pdf&embedded=true"
+	                    month: "January/February", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FJan_Feb.pdf&embedded=true"
 	                }
-				],
+			],
 			"2013": [
 	                {
-	                    month: "September/October",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
+	                    month: "September/October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
 	                }
-				],
+			],
 			"2014": [
 	                {
-	                    month: "Fall",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FSept_Oct.pdf&embedded=true"
+	                    month: "Fall", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FSept_Oct.pdf&embedded=true"
 	                },
 	                {
-	                    month: "Winter",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FWinter.pdf&embedded=true"
+	                    month: "Winter", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FWinter.pdf&embedded=true"
 	                }
-				],
+			],
 			"2015": [
 	                {
-	                    month: "Fall",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FFall.pdf&embedded=true"
+	                    month: "Fall", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FFall.pdf&embedded=true"
 	                },
-				],
+			],
 			"2016": [
 	                {
-	                    month: "Winter",
-	                    link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true"
+	                    month: "Winter", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true"
 	                },
-                    {
-                        month: "Summer",
-                        link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
-                    }
-                ],
+                    	{
+                        month: "Summer", link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
+                    	}
+                	],
 			"2017": [
 	                {
-	                    month: "Fall",
-	                    link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview"
+	                    month: "Fall", link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview"
 	                },
-		],
-	        };
+			],
+	        	};
 
 	        $scope.setNewSource = function (url) {
 	            $scope.currentUrl = $sce.trustAsResourceUrl(url);
@@ -227,12 +215,183 @@
 	        $scope.thumbs = {
 			"2017": [ 
 				{
-					title: "Induction Ceremony", 
-					description: "Our Latin III and a few AP Latin students were inducted into our highly prestigious Latin cult/society! These pictures were taken by our artifex, Hannah Kim.",
-					thumbnail:"img/albums/induction2017/4.jpg", 
-					filepath:"induction2017",
-					images:[
-						{
+				title: "TJ Certamen", 
+				description: "This year, we hosted our somewhat annual TJ Certamen! We had two divisions in each level this year, open and competitive, to encourage everyone to play regardless of skill. We also continued having students write the questions. TJ Certamen is always a busy time of the year but so rewarding. We can't wait to host again next year (and hopefully our school will finish renovation by then!) Pictures generously provided by Adam Ashley from Falls Church.",
+				thumbnail:"img/albums/tjcertamen2017/4.jpg", 
+				filepath:"tjcertamen2017",
+				images:[
+				{
+	                            title: '',
+	                            filename: '1.jpg'
+						}, {
+				    title: '',
+	                            filename: '1.jpg'
+						}, {
+	                            title: '',
+	                            filename: '2.jpg'
+						}, {
+	                            title: '',
+	                            filename: '3.jpg'
+						}, {
+	                            title: '',
+	                            filename: '4.jpg'
+						}, {
+	                            title: '',
+	                            filename: '5.jpg'
+						}, {
+	                            title: '',
+	                            filename: '6.jpg'
+						}, {
+	                            title: '',
+	                            filename: '7.jpg'
+						}, {
+	                            title: '',
+	                            filename: '8.jpg'
+						}, {
+	                            title: '',
+	                            filename: '9.jpg'
+						}, {
+	                            title: '',
+	                            filename: '10.jpg'
+						}, {
+	                            title: '',
+	                            filename: '11.jpg'
+						}, {
+	                            title: '',
+	                            filename: '12.jpg'
+						}, {
+	                            title: '',
+	                            filename: '13.jpg'
+						}, {
+	                            title: '',
+	                            filename: '14.jpg'
+						}, {
+	                            title: '',
+	                            filename: '15.jpg'
+						}, {
+	                            title: '',
+	                            filename: '16.jpg'
+						}, {
+	                            title: '',
+	                            filename: '17.jpg'
+						}, {
+	                            title: '',
+	                            filename: '18.jpg'
+						}, {
+	                            title: '',
+	                            filename: '19.jpg'
+						}, {
+	                            title: '',
+	                            filename: '20.jpg'
+						}, {
+	                            title: '',
+	                            filename: '21.jpg'
+						}, {
+	                            title: '',
+	                            filename: '22.jpg'
+						}, {
+	                            title: '',
+	                            filename: '23.jpg'
+						}
+				]
+				}
+				{
+				title: "Lupercalia", 
+				description: "Around Valentine's Day, TJ Latin has two time honored traditions. The first is the giving of Mittendamanti (things to be sent to a lover), which are valentines within the Latin community. Secondly, we always have a Lupercalia festival, where we play a game reminiscent of real Lupercalia, in which a wolf breaks up couples with its tail. The last couple remaining wins!",
+				thumbnail:"img/albums/lupercalia2017/8.jpg", 
+				filepath:"lupercalia2017",
+				images:[
+				{
+	                            title: '',
+	                            filename: '1.jpg'
+						}, {
+	                            title: '',
+	                            filename: '2.jpg'
+						}, {
+	                            title: '',
+	                            filename: '3.jpg'
+						}, {
+	                            title: '',
+	                            filename: '4.jpg'
+						}, {
+	                            title: '',
+	                            filename: '5.jpg'
+						}, {
+	                            title: '',
+	                            filename: '6.jpg'
+						}, {
+	                            title: '',
+	                            filename: '7.jpg'
+						}, {
+	                            title: '',
+	                            filename: '8.jpg'
+						}, {
+	                            title: '',
+	                            filename: '9.jpg'
+						}, {
+	                            title: '',
+	                            filename: '10.jpg'
+						}, {
+	                            title: '',
+	                            filename: '11.jpg'
+						}, {
+	                            title: '',
+	                            filename: '12.jpg'
+						}, {
+	                            title: '',
+	                            filename: '13.jpg'
+						}, {
+	                            title: '',
+	                            filename: '14.jpg'
+						}, {
+	                            title: '',
+	                            filename: '15.jpg'
+						}, {
+	                            title: '',
+	                            filename: '16.jpg'
+						}, {
+	                            title: '',
+	                            filename: '17.jpg'
+						}, {
+	                            title: '',
+	                            filename: '18.jpg'
+						}, {
+	                            title: '',
+	                            filename: '19.jpg'
+						}, {
+	                            title: '',
+	                            filename: '20.jpg'
+						}, {
+	                            title: '',
+	                            filename: '21.jpg'
+						}, {
+	                            title: '',
+	                            filename: '22.jpg'
+						}, {
+	                            title: '',
+	                            filename: '23.jpg'
+						}, {
+	                            title: '',
+	                            filename: '24.jpg'
+						}, {
+	                            title: '',
+	                            filename: '24.jpg'
+						}, {
+	                            title: '',
+	                            filename: '25.jpg'
+						}, {
+	                            title: '',
+	                            filename: '26.jpg'
+						}
+				]
+				},
+				{
+				title: "Induction Ceremony", 
+				description: "Our Latin III and a few AP Latin students were inducted into our highly prestigious Latin cult/society! These pictures were taken by our artifex, Hannah Kim.",
+				thumbnail:"img/albums/induction2017/4.jpg", 
+				filepath:"induction2017",
+				images:[
+				{
 	                            title: 'With Students Having Been Inducted',
 	                            filename: '1.jpg'
 						}, {
@@ -265,8 +424,8 @@
 						},{
 	                            title: 'More Cute Latin IIIs!',
 	                            filename: '11.jpg'
-						}
-						]
+				}
+				]
 				}
 				], 
 	            "2016": [
@@ -495,9 +654,8 @@
 				    {
 	                            title: '',
 	                            filename: '60.jpg'
-						}
-				    
-					]
+				}
+				]
 	                },
 	                {
 	                    title: "Rome's Birthday",
