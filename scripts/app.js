@@ -262,7 +262,7 @@
 						}, {
 	                            title: '',
 	                            filename: '13.jpg'
-						}
+						}]
 				},
 				{
 				title: "TJ Certamen", 
@@ -776,7 +776,7 @@
 						}, {
 	                            title: '',
 	                            filename: '21.jpg'
-						},
+						}
 					]
 	                },
 	                {
