@@ -217,8 +217,8 @@
 				{
 				title: "Ides of March", 
 				description: "Every year, our senior officers reenact Julius Caesar's assassination using the lines from Shakespeare. Before the stabbing, everyone marches around the school in their Latin T-shirts chanting 'Beware the Ides of March!' It sounds like a cult, but it's just us!",
-				thumbnail:"img/albums/ides17/12.jpg", 
-				filepath:"ides17",
+				thumbnail:"img/albums/ides2017/12.jpg", 
+				filepath:"ides2017",
 				images:[
 				{ 
 				    title: '',
