@@ -215,6 +215,56 @@
 	        $scope.thumbs = {
 			"2017": [ 
 				{
+				title: "Ides of March", 
+				description: "Every year, our senior officers reenact Julius Caesar's assassination using the lines from Shakespeare. Before the stabbing, everyone marches around the school in their Latin T-shirts chanting 'Beware the Ides of March!' It sounds like a cult, but it's just us!",
+				thumbnail:"img/albums/ides17/12.jpg", 
+				filepath:"ides17",
+				images:[
+				{ 
+				    title: '',
+	                            filename: '1.jpg'
+						}, {
+				    title: '',
+	                            filename: '1.jpg'
+						}, {
+	                            title: '',
+	                            filename: '2.jpg'
+						}, {
+	                            title: '',
+	                            filename: '3.jpg'
+						}, {
+	                            title: '',
+	                            filename: '4.jpg'
+						}, {
+	                            title: '',
+	                            filename: '5.jpg'
+						}, {
+	                            title: '',
+	                            filename: '6.jpg'
+						}, {
+	                            title: '',
+	                            filename: '7.jpg'
+						}, {
+	                            title: '',
+	                            filename: '8.jpg'
+						}, {
+	                            title: '',
+	                            filename: '9.jpg'
+						}, {
+	                            title: '',
+	                            filename: '10.jpg'
+						}, {
+	                            title: '',
+	                            filename: '11.jpg'
+						}, {
+	                            title: '',
+	                            filename: '12.jpg'
+						}, {
+	                            title: '',
+	                            filename: '13.jpg'
+						}
+				},
+				{
 				title: "TJ Certamen", 
 				description: "This year, we hosted our somewhat annual TJ Certamen! We had two divisions in each level this year, open and competitive, to encourage everyone to play regardless of skill. We also continued having students write the questions. TJ Certamen is always a busy time of the year but so rewarding. We can't wait to host again next year (and hopefully our school will finish renovation by then!) Pictures generously provided by Adam Ashley from Falls Church.",
 				thumbnail:"img/albums/tjcertamen2017/17.jpg", 
