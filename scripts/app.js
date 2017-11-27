@@ -36,6 +36,13 @@
 	        $scope.Math = window.Math;
 	        $scope.articles = [
 			{
+				author:"Shawin Vitsupakorn",
+				date:"November 26, 2017", 
+				title: "TJ's Argonauts Take On the VJCL!", 
+				banner:"vjcl17.png", 
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salvete omnes! My name is Shawin Vitsupakorn, your new webmaster. I hope that everyone had a warm and restful Thanksgiving with friends and family :) I am incredibly excited for what's in store for this year and beyond! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We're only three months in, and so much has already happened! To briefly recap, our delegation had an wonderful time at this year's VJCL State Convention, held in Richmond. Not only did we score outstandingly on the academic tests and in the graphic arts, oratory, and costume categories, we enjoyed beautiful renditions of the Titanic soundtrack and classic 80s hits. Even more: a huge congratulations to Gwendolyn Jacobson and her new position of Parliamentarian on the VJCL Board! We are immensely proud of Gwen and can't wait to see what amazing things she'll do. #VJCLove "
+			},
+			{
 				author:"Emily Wang and Robert Kim",
 				date:"February 1, 2017", 
 				title: "The Frozen Aeneid Theory", 
