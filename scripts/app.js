@@ -39,7 +39,7 @@
 				author:"Shawin Vitsupakorn",
 				date:"November 26, 2017", 
 				title: "TJ's Argonauts Take On the VJCL!", 
-				banner:"vjcl17.png", 
+				banner:"convention1.jpg", 
 				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salvete omnes! My name is Shawin Vitsupakorn, and I'm the new webmaster for the 2017-18 school year. I am incredibly excited for what's in store for this year and beyond! I hope that everyone had a warm and restful Thanksgiving :) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We're only three months in, and so much has already happened! To briefly recap, our delegation had a wonderful time at this year's VJCL State Convention, held in Richmond last weekend. Not only did we score exceptionally on the academic tests and in graphic arts, oratory, costume, scrapbook, publications, and spirit – we also enjoyed beautiful renditions of classic 80s hits, as well unforgettable talent show performances. Even more: a huge congratulations to Gwendolyn Jacobson on her new position of VJCL Parliamentarian! We are immensely proud of Gwen and can't wait to see what amazing things she'll do. #VJCLove "
 			},
 			{
