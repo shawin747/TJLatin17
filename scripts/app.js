@@ -312,7 +312,7 @@
 				},
 				{
 				title: "Myth Pumpkins", 
-				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out!",
+				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out! Photos courtesy of Artifex Hannah Kim.",
 				thumbnail:"img/albums/mythpumpkins2017/mp4.jpg", 
 				filepath:"mythpumpkins2017",
 				images:[
@@ -348,7 +348,7 @@
 				
 				{
 				title: "Dies Lustricus", 
-				description: " ",
+				description: "This year, AP Latin students reenacted the dies lustricus - the Roman naming ceremony - in celebration of Vergil's birthday. A huge thanks to Alyssa Nash and Magistra Lister for the lovely photos!",
 				thumbnail:"img/albums/dieslustricus2017/dl1.jpg", 
 				filepath:"dieslustricus2017",
 				images:[
