@@ -256,58 +256,58 @@
 	                            filename: 'vjcl_9.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4700.jpg'
+	                            filename: 'IMG_4700.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4510.jpg'
+	                            filename: 'IMG_4510.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4539.jpg'
+	                            filename: 'IMG_4539.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4565.jpg'
+	                            filename: 'IMG_4565.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4620.jpg'
+	                            filename: 'IMG_4620.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4625.jpg'
+	                            filename: 'IMG_4625.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4631.jpg'
+	                            filename: 'IMG_4631.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4636.jpg'
+	                            filename: 'IMG_4636.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4637.jpg'
+	                            filename: 'IMG_4637.JPG'
 						}, {
 			            title: '',
-	                            filename: 'IMG_4649.jpg'
+	                            filename: 'IMG_4649.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4658.jpg'
+	                            filename: 'IMG_4658.JPG'
 						}, {
 			            title: '',
-	                            filename: 'IMG_4677.jpg'
+	                            filename: 'IMG_4677.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4686.jpg'
+	                            filename: 'IMG_4686.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4693.jpg'
+	                            filename: 'IMG_4693.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4694.jpg'
+	                            filename: 'IMG_4694.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4696.jpg'
+	                            filename: 'IMG_4696.JPG'
 						}, {
 			            title: '',
-	                            filename: 'IMG_4704.jpg'
+	                            filename: 'IMG_4704.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_4706.jpg'
+	                            filename: 'IMG_4706.JPG'
 						}]
 				},
 				{
@@ -318,31 +318,31 @@
 				images:[
 				{ 
 				    title: '',
-	                            filename: 'mp1.jpg'
+	                            filename: 'mp1.JPG'
 						}, {
 				    title: '',
-	                            filename: 'mp2.jpg'
+	                            filename: 'mp2.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp3.jpg'
+	                            filename: 'mp3.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp4.jpg'
+	                            filename: 'mp4.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp5.jpg'
+	                            filename: 'mp5.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp6.jpg'
+	                            filename: 'mp6.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp7.jpg'
+	                            filename: 'mp7.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp8.jpg'
+	                            filename: 'mp8.JPG'
 						}, {
 	                            title: '',
-	                            filename: 'mp9.jpg'
+	                            filename: 'mp9.JPG'
 						}]
 				},
 				
