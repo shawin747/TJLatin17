@@ -223,7 +223,7 @@
 			"2017": [ 
 				{
 				title: "Myth Pumpkins", 
-				description: " ",
+				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out!",
 				thumbnail:"img/albums/mythpumpkins2017/mp4.jpg", 
 				filepath:"mythpumpkins2017",
 				images:[
