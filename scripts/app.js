@@ -222,15 +222,48 @@
 	        $scope.thumbs = {
 			"2017": [ 
 				{
+				title: "Myth Pumpkins", 
+				description: " ",
+				thumbnail:"img/albums/mythpumpkins2017/mp4.jpg", 
+				filepath:"mythpumpkins2017",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'mp1.jpg'
+						}, {
+				    title: '',
+	                            filename: 'mp2.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp6.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp7.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp8.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'mp9.jpg'
+						}]
+				},
+				
+				{
 				title: "Dies Lustricus", 
 				description: " ",
 				thumbnail:"img/albums/dieslustricus2017/dl1.jpg", 
 				filepath:"dieslustricus2017",
 				images:[
 				{ 
-				    title: '',
-	                            filename: 'dl1.jpg'
-						}, {
 				    title: '',
 	                            filename: 'dl1.jpg'
 						}, {
