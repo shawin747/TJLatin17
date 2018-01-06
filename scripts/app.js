@@ -222,6 +222,95 @@
 	        $scope.thumbs = {
 			"2017": [ 
 				{
+				title: "VJCL Convention", 
+				description: "The VJCL Convention is an event that the Latin delegation of TJ looks forward to - this year's VJCL was held from November 19th to 20th, and as usual, we all had a blast. Have a look! Photos courtesy of Artifex Elizabeth Li and Webmaster Shawin Vitsupakorn.",
+				thumbnail:"img/albums/vjcl2017/vjcl_6.jpg", 
+				filepath:"vjcl2017",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'vjcl_1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_2.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_6.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_7.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_8.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'vjcl_9.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4700.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4510.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4539.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4565.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4620.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4625.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4631.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4636.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4637.jpg'
+						}, {
+			            title: '',
+	                            filename: 'IMG_4649.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4658.jpg'
+						}, {
+			            title: '',
+	                            filename: 'IMG_4677.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4686.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4693.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4694.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_4696.jpg'
+						}, {
+			            title: '',
+	                            filename: 'IMG_4704.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_4706.jpg'
+						}]
+				},
+				{
 				title: "Myth Pumpkins", 
 				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out!",
 				thumbnail:"img/albums/mythpumpkins2017/mp4.jpg", 
