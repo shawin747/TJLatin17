@@ -37,6 +37,13 @@
 	        $scope.articles = [
 			{
 				author:"Shawin Vitsupakorn",
+				date:"January 31, 2018", 
+				title: "Prepping for the New Year's Events", 
+				banner:"inite_2017.jpg", 
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TJ Latin wishes everyone a belated Happy New Year! Although the blissful commotion of convention is over, we are getting ready for many more events to come! Pictured above is last year's Latin iNite - our act is rather new, but nonetheless, never fails to leave a blazing impression of Latin on the audience. Latin iNite is working hard in preparation for this year's show...Stay tuned :) "
+			},
+			{
+				author:"Shawin Vitsupakorn",
 				date:"November 26, 2017", 
 				title: "TJ's Argonauts Take On the VJCL!", 
 				banner:"convention1.jpg", 
