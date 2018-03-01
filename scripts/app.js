@@ -158,7 +158,7 @@
 	        };
 	    })
 	    .controller('ScribeCtrl', function ($scope, $sce) {
-	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview");
+	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/1Qi3EiJ0JzQvCZvUkq4l6VzPIS6LDPlM2/preview");
 
 	        $scope.yearLinks = {
 	            	"2011-12": [
@@ -287,9 +287,9 @@
 						}, {
 				    title: '',
 	                            filename: 'IMG_9046.JPG'		
-				}
+						},
 				]	
-				}
+				},
 				],
 			"2017": [ 
 				{
