@@ -161,7 +161,7 @@
 	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview");
 
 	        $scope.yearLinks = {
-	            "2012": [
+	            	"2011-12": [
 	                {
 	                    month: "September & October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FSept_Oct.pdf&embedded=true"
 	                },
@@ -172,12 +172,12 @@
 	                    month: "January & February", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FJan_Feb.pdf&embedded=true"
 	                }
 			],
-			"2013": [
+			"2012-13": [
 	                {
 	                    month: "September & October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
 	                }
 			],
-			"2014": [
+			"2013-14": [
 	                {
 	                    month: "Fall", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FSept_Oct.pdf&embedded=true"
 	                },
@@ -185,12 +185,12 @@
 	                    month: "Winter", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2014-2015%2FWinter.pdf&embedded=true"
 	                }
 			],
-			"2015": [
+			"2014-15": [
 	                {
 	                    month: "Fall", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FFall.pdf&embedded=true"
 	                },
 			],
-			"2016": [
+			"2015-16": [
 	                {
 	                    month: "Winter", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2015-2016%2FWinter.pdf&embedded=true"
 	                },
@@ -198,12 +198,12 @@
                         month: "Summer", link: "https://drive.google.com/file/d/0B7Wnq9YyNHSSN01Sb2ZiY2pUeHRQTGJEMnpaWTQ5OF9sTjJR/preview"
                     	}
                 	],
-			"2017": [
+			"2016-17": [
 	                {
 	                    month: "Fall", link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview"
 	                },
 			],
-			"2018": [
+			"2017-18": [
 			{
 			    month: "Fall & Spring", link: "https://drive.google.com/file/d/1Qi3EiJ0JzQvCZvUkq4l6VzPIS6LDPlM2/preview"
 			},
