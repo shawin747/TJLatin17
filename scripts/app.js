@@ -230,12 +230,12 @@
 	    .controller('ImageCtrl', function ($scope, $sce) {
 	        $scope.browsingAlbums = true;
 
-	        $scope.years = ["2017", "2016", "2015", "2014"];
+	        $scope.years = ["2018", "2017", "2016", "2015", "2014"];
 	        $scope.thumbs = {
 			"2018": [ 
 				{
 				title: "iNite", 
-				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away. Photos courtesy of Shawin Vitsupakorn.",
+				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away.",
 				thumbnail:"img/albums/inite2018/IMG_8943.jpg", 
 				filepath:"inite2018",
 				images:[
@@ -294,7 +294,7 @@
 			"2017": [ 
 				{
 				title: "VJCL Convention", 
-				description: "The VJCL Convention is an event that the Latin delegation of TJ looks forward to - this year's VJCL was held from November 19th to 20th, and as usual, we all had a blast. Have a look! Photos courtesy of Artifex Elizabeth Li and Webmaster Shawin Vitsupakorn.",
+				description: "The VJCL Convention is an event that the Latin delegation of TJ looks forward to - this year's VJCL was held from November 19th to 20th, and as usual, we all had a blast. Have a look! Photos courtesy of Elizabeth Li and Shawin Vitsupakorn.",
 				thumbnail:"img/albums/vjcl2017/vjcl_6.jpg", 
 				filepath:"vjcl2017",
 				images:[
@@ -383,7 +383,7 @@
 				},
 				{
 				title: "Myth Pumpkins", 
-				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out! Photos courtesy of Artifex Hannah Kim.",
+				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out! Photos courtesy of Hannah Kim.",
 				thumbnail:"img/albums/mythpumpkins2017/mp4.jpg", 
 				filepath:"mythpumpkins2017",
 				images:[
@@ -1085,8 +1085,8 @@
 					]
 	                },
 	                {
-	                    title: "INite",
-	                    description: "On April 2, 2016, TJ hosted its annual INite (International Night), a cultural performance showcase that draws an audience of thousands to the George Mason university Performing Arts Center every single year. This year was the first in which TJ Latin participated. Check out the photos of our performance!, which incorporated a gladiator fight and Greek dancing!",
+	                    title: "iNite",
+	                    description: "On April 2, 2016, TJ hosted its annual iNite (International Night), a cultural performance showcase that draws an audience of thousands to the George Mason university Performing Arts Center every single year. This year was the first in which TJ Latin participated. Check out the photos of our performance, which incorporated a gladiator fight and Greek dancing!",
 	                    thumbnail: "img/albums/inite2016/40.jpg",
 	                    filepath: "inite2016",
 	                    images: [
