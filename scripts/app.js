@@ -163,18 +163,18 @@
 	        $scope.yearLinks = {
 	            "2012": [
 	                {
-	                    month: "September/October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FSept_Oct.pdf&embedded=true"
+	                    month: "September & October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FSept_Oct.pdf&embedded=true"
 	                },
 	                {
-	                    month: "November/December", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FNov_Dec.pdf&embedded=true"
+	                    month: "November & December", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FNov_Dec.pdf&embedded=true"
 	                },
 	                {
-	                    month: "January/February", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FJan_Feb.pdf&embedded=true"
+	                    month: "January & February", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2012-2013%2FJan_Feb.pdf&embedded=true"
 	                }
 			],
 			"2013": [
 	                {
-	                    month: "September/October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
+	                    month: "September & October", link: "https://docs.google.com/viewer?url=http%3A%2F%2Ftjlatin.figroll.in%2Fdocs%2Fscribe%2F2013-2014%2FSept_Oct.pdf&embedded=true"
 	                }
 			],
 			"2014": [
@@ -205,7 +205,7 @@
 			],
 			"2018": [
 			{
-			    month: "Fall/Spring", link: "https://drive.google.com/file/d/1Qi3EiJ0JzQvCZvUkq4l6VzPIS6LDPlM2/view?usp=sharing"
+			    month: "Fall & Spring", link: "https://drive.google.com/file/d/1Qi3EiJ0JzQvCZvUkq4l6VzPIS6LDPlM2/preview"
 			},
 			],
 	        	};
