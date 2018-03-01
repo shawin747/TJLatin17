@@ -203,6 +203,11 @@
 	                    month: "Fall", link: "https://drive.google.com/file/d/0B8Ib2Xg857Sicmg2aDhoVU5ydkE/preview"
 	                },
 			],
+			"2018": [
+			{
+			    month: "Fall/Spring", link: "https://drive.google.com/file/d/1IXzimzjnUEepxXxzLEyKIZ1uk627Dhae/preview"
+			},
+			],
 	        	};
 
 	        $scope.setNewSource = function (url) {
