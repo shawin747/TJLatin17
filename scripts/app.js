@@ -232,6 +232,65 @@
 
 	        $scope.years = ["2017", "2016", "2015", "2014"];
 	        $scope.thumbs = {
+			"2018": [ 
+				{
+				title: "iNite", 
+				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away. Photos courtesy of Shawin Vitsupakorn.",
+				thumbnail:"img/albums/inite2018/IMG_8943.jpg", 
+				filepath:"inite2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'IMG_8933.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8935.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8936.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8937.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8939.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8940.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8943.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_8948.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9002.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9013.JPG'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9018.JPG'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9028.JPG'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9034.JPG'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9041.JPG'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9043.JPG'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9046.JPG'		
+				}
+				]	
+				}
+				],
 			"2017": [ 
 				{
 				title: "VJCL Convention", 
