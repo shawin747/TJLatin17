@@ -205,7 +205,7 @@
 			],
 			"2018": [
 			{
-			    month: "Fall/Spring", link: "https://drive.google.com/file/d/1IXzimzjnUEepxXxzLEyKIZ1uk627Dhae/preview"
+			    month: "Fall/Spring", link: "https://drive.google.com/file/d/1Qi3EiJ0JzQvCZvUkq4l6VzPIS6LDPlM2/view?usp=sharing"
 			},
 			],
 	        	};
