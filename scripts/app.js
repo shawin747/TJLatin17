@@ -390,87 +390,6 @@
 				]	
 				},
 				{
-				title: "TJ Certamen", 
-				description: "",
-				thumbnail:"img/albums/tjcertamen2018/tjc1.jpg", 
-				filepath:"tjcertamen2018",
-				images:[
-				{ 
-				    title: '',
-	                            filename: 'tjc1.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc3.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc4.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc5.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc11.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc12.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc13.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc16.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'tjc19.jpg'
-						}, {
-				    title: '',
-	                            filename: 'tjc22.JPG'
-						}, {
-				    title: '',
-	                            filename: 'tjc25.JPG'
-						},
-				]	
-				},
-				{
-				title: "Induction Ceremony", 
-				description: "",
-				thumbnail:"img/albums/induction2018/lhs1.jpg", 
-				filepath:"induction2018",
-				images:[
-				{ 
-				    title: '',
-	                            filename: 'lhs1.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs2.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs3.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs4.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs5.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs6.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs7.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs8.jpg'
-						}, {
-	                            title: '',
-	                            filename: 'lhs9.jpg'
-						}, {
-				    title: '',
-	                            filename: 'lhs10.JPG'
-						},
-				]	
-				},
-				{
 				title: "iNite", 
 				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away.",
 				thumbnail:"img/albums/inite2018/williamz_3.jpg", 
@@ -533,6 +452,138 @@
 						}, {
 				    title: '',
 	                            filename: 'williamz_6.JPG'
+						},
+				]	
+				},
+				{
+				title: "TJ Certamen", 
+				description: "",
+				thumbnail:"img/albums/tjcertamen2018/tjc1.jpg", 
+				filepath:"tjcertamen2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'tjc1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc11.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc12.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc13.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc16.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc19.jpg'
+						}, {
+				    title: '',
+	                            filename: 'tjc22.JPG'
+						}, {
+				    title: '',
+	                            filename: 'tjc25.JPG'
+						},
+				]	
+				},
+				{
+				title: "Lupercalia", 
+				description: "",
+				thumbnail:"img/albums/lupercalia2018/luper1.jpg", 
+				filepath:"lupercalia2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'luper1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper2.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper8.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper9.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper10.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'luper11.jpg'
+						}, {
+				    title: '',
+	                            filename: 'luper12.JPG'
+						}, {
+				    title: '',
+	                            filename: 'luper14.JPG'
+						}, {
+				    title: '',
+	                            filename: 'luper15.JPG'
+						}, {
+				    title: '',
+	                            filename: 'luper16.JPG'
+						}, {
+				    title: '',
+	                            filename: 'luper17.JPG'
+						}, 
+				]	
+				},
+				{
+				title: "Induction Ceremony", 
+				description: "",
+				thumbnail:"img/albums/induction2018/lhs1.jpg", 
+				filepath:"induction2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'lhs1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs2.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs6.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs7.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs8.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs9.jpg'
+						}, {
+				    title: '',
+	                            filename: 'lhs10.JPG'
 						},
 				]	
 				},
