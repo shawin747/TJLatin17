@@ -235,7 +235,7 @@
 			"2018": [ 
 				{
 				title: "In-House Certamen", 
-				description: "",
+				description: "There is no such thing as 'too much Certamen' — we can't get enough of it! For two years now, we've been hosting in-house Certamina, where TJ Latin students of all levels come together to settle rivalries, but more importantly, get to know one another and HAVE FUN! Photos courtesy of Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/inhousecertamen2018/ihc30.jpg", 
 				filepath:"inhousecertamen2018",
 				images:[
@@ -292,7 +292,7 @@
 				},
 				{
 				title: "Ides of March", 
-				description: "",
+				description: "Every March 15th, we make our way through the whole school chanting 'Beware the Ides of March.' And to top, our senior officers reenact Caesar's assassination (flawlessly, if we may say so ourselves). Beware the Ides, but while you're at it, beware the power and spirit of TJ Latin. Photos courtesy of Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/ides2018/i39.jpg", 
 				filepath:"ides2018",
 				images:[
@@ -391,7 +391,7 @@
 				},
 				{
 				title: "iNite", 
-				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away.",
+				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show at George Mason University's Center for the Arts. Latin iNite, though a relatively new act, returned with fierce momentum this year — our rendition of Pandora's Box blew the audience away. Photos courtesy of iNite Photographer William Zhang and Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/inite2018/williamz_3.jpg", 
 				filepath:"inite2018",
 				images:[
@@ -457,7 +457,7 @@
 				},
 				{
 				title: "TJ Certamen", 
-				description: "",
+				description: "On February 24th, TJ hosted its annual Certamen. It was amazing to see so many teams from different schools compete in great camaraderie. We hope to see you again next year! Photos courtesy of Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/tjcertamen2018/tjc1.jpg", 
 				filepath:"tjcertamen2018",
 				images:[
@@ -499,7 +499,7 @@
 				},
 				{
 				title: "Lupercalia", 
-				description: "",
+				description: "Ooh-la-la, here comes February, the time for romantic (or friend-to-friend) Mittendamanti and the beloved Lupercalia. In the spirit of the holiday, we play a game: a wolf breaks up couples with its tail, and the final couple remaining leaves victorious! Photos courtesy of Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/lupercalia2018/luper1.jpg", 
 				filepath:"lupercalia2018",
 				images:[
@@ -550,7 +550,7 @@
 				},
 				{
 				title: "Induction Ceremony", 
-				description: "",
+				description: "We inducted our Latin IIIs and a few AP students into the glorious TJ Latin Honor Society. The ceremony is top-secret (shhhh..!). A warm thanks to our artifex, Hannah Kim, and Magistra Conklin for these sneak-peeks!",
 				thumbnail:"img/albums/induction2018/lhs1.jpg", 
 				filepath:"induction2018",
 				images:[
@@ -591,7 +591,7 @@
 			"2017": [ 
 				{
 				title: "VJCL Convention", 
-				description: "The VJCL Convention is an event that the Latin delegation of TJ looks forward to - this year's VJCL was held from November 19th to 20th, and as usual, we all had a blast. Have a look! Photos courtesy of Elizabeth Li and Shawin Vitsupakorn.",
+				description: "The VJCL Convention is an event that the Latin delegation of TJ looks forward to - this year's VJCL was held from November 19th to 20th, and as usual, we all had a blast. Have a look! Photos courtesy of Artifex Elizabeth Li and Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/vjcl2017/vjcl_6.jpg", 
 				filepath:"vjcl2017",
 				images:[
@@ -680,7 +680,7 @@
 				},
 				{
 				title: "Myth Pumpkins", 
-				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out! Photos courtesy of Hannah Kim.",
+				description: "Every year, TJ Latin celebrates Halloween with our festive Myth Pumpkins. The competition is tough, so the participants' artistry is definitely put to the test. Check it out! Photos courtesy of Hannah Kim, one of our artifices.",
 				thumbnail:"img/albums/mythpumpkins2017/mp4.JPG", 
 				filepath:"mythpumpkins2017",
 				images:[
@@ -716,7 +716,7 @@
 				
 				{
 				title: "Dies Lustricus", 
-				description: "This year, AP Latin students reenacted the dies lustricus - the Roman naming ceremony - in celebration of Vergil's birthday. A huge thanks to Alyssa Nash and Magistra Lister for the lovely photos!",
+				description: "This year, AP Latin students reenacted the dies lustricus - the Roman naming ceremony - in celebration of Vergil's birthday. A huge thanks to Praetor Maxima Alyssa Nash and Magistra Lister for the lovely photos!",
 				thumbnail:"img/albums/dieslustricus2017/dl1.jpg", 
 				filepath:"dieslustricus2017",
 				images:[
