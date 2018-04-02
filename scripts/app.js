@@ -234,10 +234,208 @@
 	        $scope.thumbs = {
 			"2018": [ 
 				{
+				title: "In-House Certamen", 
+				description: "",
+				thumbnail:"img/albums/inhousecertamen2018/ihc30.jpg", 
+				filepath:"inhousecertamen2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'ihc6.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc7.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc10.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc12.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc13.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc15.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc18.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc19.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'ihc21.jpg'
+						}, {
+				    title: '',
+	                            filename: 'ihc24.JPG'
+						}, {
+				    title: '',
+	                            filename: 'ihc25.JPG'
+						}, {
+				    title: '',
+	                            filename: 'ihc29.JPG'
+						}, {
+				    title: '',
+	                            filename: 'ihc30.JPG'
+						}, {
+				    title: '',
+	                            filename: 'ihc31.JPG'
+						}, {
+				    title: '',
+	                            filename: 'ihc33.JPG'
+						}, {
+				    title: '',
+	                            filename: 'ihc35.JPG'
+						}, 
+				]	
+				},
+				{
+				title: "Ides of March", 
+				description: "",
+				thumbnail:"img/albums/ides2018/i39.jpg", 
+				filepath:"ides2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'i1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i2.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i11.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i12.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i16.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i17.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'i25.jpg'
+						}, {
+				    title: '',
+	                            filename: 'i26.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i27.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i29.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i31.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i32.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i33.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i35.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i36.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i37.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i39.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i42.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i43.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i44.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i46.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i51.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i53.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i59.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i61.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i64.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i65.JPG'
+						}, {
+				    title: '',
+	                            filename: 'i67.JPG'
+						},
+				]	
+				},
+				{
+				title: "TJ Certamen", 
+				description: "",
+				thumbnail:"img/albums/tjcertamen2018/tjc1.jpg", 
+				filepath:"tjcertamen2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'tjc1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc11.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc12.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc13.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc16.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'tjc19.jpg'
+						}, {
+				    title: '',
+	                            filename: 'tjc22.JPG'
+						}, {
+				    title: '',
+	                            filename: 'tjc25.JPG'
+						},
+				]	
+				},
+				{
 				title: "Induction Ceremony", 
 				description: "",
 				thumbnail:"img/albums/induction2018/lhs1.jpg", 
-				filepath:"inite2018",
+				filepath:"induction2018",
 				images:[
 				{ 
 				    title: '',
@@ -275,7 +473,7 @@
 				{
 				title: "iNite", 
 				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away.",
-				thumbnail:"img/albums/inite2018/IMG_8943.jpg", 
+				thumbnail:"img/albums/inite2018/williamz_3.jpg", 
 				filepath:"inite2018",
 				images:[
 				{ 
