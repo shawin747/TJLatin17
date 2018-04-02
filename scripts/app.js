@@ -234,6 +234,45 @@
 	        $scope.thumbs = {
 			"2018": [ 
 				{
+				title: "Induction Ceremony", 
+				description: "",
+				thumbnail:"img/albums/induction2018/lhs1.jpg", 
+				filepath:"inite2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'lhs1.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs2.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs3.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs4.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs5.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs6.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs7.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs8.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'lhs9.jpg'
+						}, {
+				    title: '',
+	                            filename: 'lhs10.JPG'
+						},
+				]	
+				},
+				{
 				title: "iNite", 
 				description: "iNite is a true TJ tradition. On February 25th, over 700 performers put on a spectacular 20-act show. Latin iNite, though a relatively new act, returned with fierce momentum this year - our rendition of Pandora's Box blew the audience away.",
 				thumbnail:"img/albums/inite2018/IMG_8943.jpg", 
@@ -241,52 +280,61 @@
 				images:[
 				{ 
 				    title: '',
-	                            filename: 'IMG_8933.jpg'
+	                            filename: 'nite1.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8935.jpg'
+	                            filename: 'nite2.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8936.jpg'
+	                            filename: 'nite3.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8937.jpg'
+	                            filename: 'nite5.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8939.jpg'
+	                            filename: 'nite5half.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8940.jpg'
+	                            filename: 'nite6.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8943.jpg'
+	                            filename: 'nite13.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_8948.jpg'
+	                            filename: 'nite14.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_9002.jpg'
+	                            filename: 'nite17.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9013.JPG'
+	                            filename: 'nite18.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9018.JPG'
+	                            filename: 'nite19.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9028.JPG'
+	                            filename: 'nite22.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9034.JPG'
+	                            filename: 'nite23.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9041.JPG'
+	                            filename: 'williamz_1.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9043.JPG'
+	                            filename: 'williamz_2.JPG'
 						}, {
 				    title: '',
-	                            filename: 'IMG_9046.JPG'		
+	                            filename: 'williamz_3.JPG'		
+						}, {
+				    title: '',
+	                            filename: 'williamz_4.JPG'
+						}, {
+				    title: '',
+	                            filename: 'williamz_5.JPG'
+						}, {
+				    title: '',
+	                            filename: 'williamz_6.JPG'
 						},
 				]	
 				},
