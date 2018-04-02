@@ -268,25 +268,25 @@
 	                            filename: 'ihc21.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc24.JPG'
+	                            filename: 'ihc24.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc25.JPG'
+	                            filename: 'ihc25.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc29.JPG'
+	                            filename: 'ihc29.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc30.JPG'
+	                            filename: 'ihc30.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc31.JPG'
+	                            filename: 'ihc31.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc33.JPG'
+	                            filename: 'ihc33.jpg'
 						}, {
 				    title: '',
-	                            filename: 'ihc35.JPG'
+	                            filename: 'ihc35.jpg'
 						}, 
 				]	
 				},
@@ -325,67 +325,67 @@
 	                            filename: 'i25.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i26.JPG'
+	                            filename: 'i26.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i27.JPG'
+	                            filename: 'i27.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i29.JPG'
+	                            filename: 'i29.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i31.JPG'
+	                            filename: 'i31.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i32.JPG'
+	                            filename: 'i32.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i33.JPG'
+	                            filename: 'i33.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i35.JPG'
+	                            filename: 'i35.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i36.JPG'
+	                            filename: 'i36.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i37.JPG'
+	                            filename: 'i37.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i39.JPG'
+	                            filename: 'i39.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i42.JPG'
+	                            filename: 'i42.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i43.JPG'
+	                            filename: 'i43.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i44.JPG'
+	                            filename: 'i44.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i46.JPG'
+	                            filename: 'i46.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i51.JPG'
+	                            filename: 'i51.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i53.JPG'
+	                            filename: 'i53.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i59.JPG'
+	                            filename: 'i59.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i61.JPG'
+	                            filename: 'i61.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i64.JPG'
+	                            filename: 'i64.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i65.JPG'
+	                            filename: 'i65.jpg'
 						}, {
 				    title: '',
-	                            filename: 'i67.JPG'
+	                            filename: 'i67.jpg'
 						},
 				]	
 				},
@@ -424,34 +424,34 @@
 	                            filename: 'nite17.jpg'
 						}, {
 				    title: '',
-	                            filename: 'nite18.JPG'
+	                            filename: 'nite18.jpg'
 						}, {
 				    title: '',
-	                            filename: 'nite19.JPG'
+	                            filename: 'nite19.jpg'
 						}, {
 				    title: '',
-	                            filename: 'nite22.JPG'
+	                            filename: 'nite22.jpg'
 						}, {
 				    title: '',
-	                            filename: 'nite23.JPG'
+	                            filename: 'nite23.jpg'
 						}, {
 				    title: '',
-	                            filename: 'williamz_1.JPG'
+	                            filename: 'williamz_1.jpg'
 						}, {
 				    title: '',
-	                            filename: 'williamz_2.JPG'
+	                            filename: 'williamz_2.jpg'
 						}, {
 				    title: '',
-	                            filename: 'williamz_3.JPG'		
+	                            filename: 'williamz_3.jpg'		
 						}, {
 				    title: '',
-	                            filename: 'williamz_4.JPG'
+	                            filename: 'williamz_4.jpg'
 						}, {
 				    title: '',
-	                            filename: 'williamz_5.JPG'
+	                            filename: 'williamz_5.jpg'
 						}, {
 				    title: '',
-	                            filename: 'williamz_6.JPG'
+	                            filename: 'williamz_6.jpg'
 						},
 				]	
 				},
@@ -490,10 +490,10 @@
 	                            filename: 'tjc19.jpg'
 						}, {
 				    title: '',
-	                            filename: 'tjc22.JPG'
+	                            filename: 'tjc22.jpg'
 						}, {
 				    title: '',
-	                            filename: 'tjc25.JPG'
+	                            filename: 'tjc25.jpg'
 						},
 				]	
 				},
@@ -532,19 +532,19 @@
 	                            filename: 'luper11.jpg'
 						}, {
 				    title: '',
-	                            filename: 'luper12.JPG'
+	                            filename: 'luper12.jpg'
 						}, {
 				    title: '',
-	                            filename: 'luper14.JPG'
+	                            filename: 'luper14.jpg'
 						}, {
 				    title: '',
-	                            filename: 'luper15.JPG'
+	                            filename: 'luper15.jpg'
 						}, {
 				    title: '',
-	                            filename: 'luper16.JPG'
+	                            filename: 'luper16.jpg'
 						}, {
 				    title: '',
-	                            filename: 'luper17.JPG'
+	                            filename: 'luper17.jpg'
 						}, 
 				]	
 				},
@@ -583,7 +583,7 @@
 	                            filename: 'lhs9.jpg'
 						}, {
 				    title: '',
-	                            filename: 'lhs10.JPG'
+	                            filename: 'lhs10.jpg'
 						},
 				]	
 				},
@@ -624,58 +624,58 @@
 	                            filename: 'vjcl_9.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4700.JPG'
+	                            filename: 'IMG_4700.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4510.JPG'
+	                            filename: 'IMG_4510.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4539.JPG'
+	                            filename: 'IMG_4539.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4565.JPG'
+	                            filename: 'IMG_4565.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4620.JPG'
+	                            filename: 'IMG_4620.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4625.JPG'
+	                            filename: 'IMG_4625.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4631.JPG'
+	                            filename: 'IMG_4631.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4636.JPG'
+	                            filename: 'IMG_4636.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4637.JPG'
+	                            filename: 'IMG_4637.jpg'
 						}, {
 			            title: '',
-	                            filename: 'IMG_4649.JPG'
+	                            filename: 'IMG_4649.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4658.JPG'
+	                            filename: 'IMG_4658.jpg'
 						}, {
 			            title: '',
-	                            filename: 'IMG_4677.JPG'
+	                            filename: 'IMG_4677.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4686.JPG'
+	                            filename: 'IMG_4686.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4693.JPG'
+	                            filename: 'IMG_4693.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4694.JPG'
+	                            filename: 'IMG_4694.jpg'
 						}, {
 				    title: '',
-	                            filename: 'IMG_4696.JPG'
+	                            filename: 'IMG_4696.jpg'
 						}, {
 			            title: '',
-	                            filename: 'IMG_4704.JPG'
+	                            filename: 'IMG_4704.jpg'
 						}, {
 	                            title: '',
-	                            filename: 'IMG_4706.JPG'
+	                            filename: 'IMG_4706.jpg'
 						}]
 				},
 				{
