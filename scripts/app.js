@@ -37,6 +37,13 @@
 	        $scope.articles = [
 			{
 				author:"Shawin Vitsupakorn",
+				date:"April 1, 2018", 
+				title: "Spring? Winter? Who knows?", 
+				banner:"springstock.jpg", 
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Happy Spring (and snow, Easter, and April Fools)! It has been such an eventful few months for TJ Latin. From hosting our annual TJ Certamen and nailing our iNite performance, to playing mythical charades at our In-House Certamen, we've made truly unforgettable memories. But wait...there's much more to come! Learning never ends and the AP exam looms in the horizon...wish our students luck! "
+			},
+			{
+				author:"Shawin Vitsupakorn",
 				date:"January 31, 2018", 
 				title: "Prepping for the New Year's Events", 
 				banner:"inite_2017.jpg", 
