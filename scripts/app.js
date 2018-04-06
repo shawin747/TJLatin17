@@ -242,7 +242,7 @@
 			"2018": [ 
 				{
 				title: "In-House Certamen", 
-				description: "There is no such thing as 'too much Certamen' — we can't get enough of it! For two years now, we've been hosting in-house Certamina, where TJ Latin students of all levels come together to settle rivalries, but more importantly, get to know one another and HAVE FUN! Photos courtesy of Webmaster Shawin Vitsupakorn.",
+				description: "There is no such thing as 'too much Certamen' — we can't get enough of it! For two years now, we've been hosting in-house Certamina, where TJ Latin students of all levels come together to settle rivalries, but more importantly, get to know one another and HAVE FUN! Photos courtesy of Webmaster Shawin Vitsupakorn and Magistra Lister, for the group shots!",
 				thumbnail:"img/albums/inhousecertamen2018/ihc30.jpg", 
 				filepath:"inhousecertamen2018",
 				images:[
