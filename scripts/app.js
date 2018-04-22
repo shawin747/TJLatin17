@@ -891,7 +891,7 @@
 				{
 				title: "Lupercalia", 
 				description: "Around Valentine's Day, TJ Latin has two time honored traditions. The first is the giving of Mittendamanti (things to be sent to a lover), which are valentines within the Latin community. Secondly, we always have a Lupercalia festival, where we play a game reminiscent of real Lupercalia, in which a wolf breaks up couples with its tail. The last couple remaining wins!",
-				thumbnail:"img/albums/lupercalia2017/8.jpg", 
+				thumbnail:"img/albums/lupercalia2017/17.jpg", 
 				filepath:"lupercalia2017",
 				images:[
 				{
