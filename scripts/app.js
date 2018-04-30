@@ -2960,6 +2960,10 @@
 	                url: '/2016awards',
 	                templateUrl: 'views/2016awards.html',
 	            })
+	            .state('2017awards', {
+	                url: '/2017awards',
+	                templateUrl: 'views/2017awards.html',
+	            })
 	            .state('sitemap', {
 	                url: '/sitemap',
 	                templateUrl: 'views/sitemap.html',
