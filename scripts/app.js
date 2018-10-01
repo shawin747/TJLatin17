@@ -40,7 +40,7 @@
 				date:"September 30, 2018", 
 				title: "Passing the Torch!", 
 				banner:"torch.jpg", 
-				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elections for the TJ LHS Executive Board have ended, and that means... it is time to welcome Medha Gupta, our Domina Telae for the 2018-2019 school year! While this post will be my last on the blog, I know that Medha will be a wonderful Domina Telae. E corde, valete. – Shawin (Varro). "
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elections for the TJ LHS Executive Board have ended, and that means... it is time to welcome Medha Gupta, our Domina Telae for the 2018-2019 school year! Knowing that this is my final blog post, I feel very bittersweet. Nevertheless, I have high hopes for what 2018 and 2019 have in store for TJ Latin. E corde, valete. – Shawin (Varro). "
 			},
 			{
 				author:"Shawin Vitsupakorn",
