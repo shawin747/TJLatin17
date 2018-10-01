@@ -37,6 +37,13 @@
 	        $scope.articles = [
 			{
 				author:"Shawin Vitsupakorn",
+				date:"September 30, 2018", 
+				title: "Passing the Torch!", 
+				banner:"torch.jpg", 
+				text:"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elections for the TJ LHS Executive Board have ended, and that means... it is time to welcome Medha Gupta, our Domina Telae for the 2018-2019 school year! While this post will be my last on the blog, I know that Medha will be a wonderful Domina Telae. E corde, valete. – Shawin (Varro). "
+			},
+			{
+				author:"Shawin Vitsupakorn",
 				date:"April 1, 2018", 
 				title: "Spring? Winter? Who knows?", 
 				banner:"springstock.jpg", 
