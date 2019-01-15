@@ -2971,6 +2971,11 @@
 	                url: '/2017awards',
 	                templateUrl: 'views/2017awards.html',
 	            })
+		
+		   .state('2018awards', {
+	                url: '/2018awards',
+	                templateUrl: 'views/2018awards.html',
+	            })
 	            .state('sitemap', {
 	                url: '/sitemap',
 	                templateUrl: 'views/sitemap.html',
