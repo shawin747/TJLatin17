@@ -248,6 +248,322 @@
 	        $scope.thumbs = {
 			"2018": [ 
 				{
+				title: "Myth Pumpkins", 
+				description: "The TJ Latin Club decorates pumpkins to create not only mythological and historical Roman characters, but also creative designs with an assortment of craft supplies:)",
+				thumbnail:"img/albums/MythPumpkins2018/IMG_9377.jpg", 
+				filepath:"MythPumpkins2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'IMG_9352.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9354.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9357.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9359.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9360.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9362.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9364.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9366.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9368.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9369.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9373.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9375.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9377.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9380.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9384.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9385.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9387.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9390.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9393.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9395.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9399.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9402.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9405.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_9406.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9409.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9414.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9415.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9416.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_9417.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_05_57_Pro.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_07_02_Pro.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_07_08_Pro.jpg'
+						}, {
+				    title: '',
+	                            filename: 'WP_20181024_15_09_23_Pro.jpg'
+						}, {
+				    title: '',
+	                            filename: 'WP_20181024_15_09_25_Pro.jpg'
+						}, {
+				    title: '',
+	                            filename: 'WP_20181024_15_10_35_Pro.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_10_39_Pro.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_10_52_Pro.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_10_56_Pro.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'WP_20181024_15_11_28_Pro.jpg'
+						}, {
+				    title: '',
+	                            filename: 'WP_20181024_15_11_31_Pro.jpg'
+						}, {
+				    title: '',
+	                            filename: 'WP_20181024_15_12_07_Pro.jpg'
+						}, 
+				]	
+				},
+				
+				{
+				title: "VJCL Convention", 
+				description: "Going to Convention is always a fun time for our students because we all enjoy the camraderie!",
+				thumbnail:"img/albums/convention2018/officers.png", 
+				filepath:"convention2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: '1.HEIC'
+						}, {
+	                            title: '',
+	                            filename: '2.HEIC'
+						}, {
+	                            title: '',
+	                            filename: '3.HEIC'
+						}, {
+	                            title: '',
+	                            filename: '4.HEIC'
+						}, {
+	                            title: '',
+	                            filename: '7.HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0758.HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0769.HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0780.HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0800.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0801.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0803.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0805.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0832.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'officers.png'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0852.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0862.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0871.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0893.HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0897.HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0902(1).HEIC'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_0910.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_0962.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_1033.HEIC'
+						}, {
+				    title: '',
+	                            filename: 'IMG_1072.HEIC'
+						},
+				]	
+				},
+				{
+				title: "Comissatio", 
+				description: "The Latin 3's learn all about Roman marriages and decide to get married themselves to truly immerse themselves in Roman culture!",
+				thumbnail:"img/albums/marriage2018/marriagecopy.jpg", 
+				filepath:"marriage2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'marriagecopy.jpg'
+						}, {
+	                            title: '',
+	                            filename: '1.jpg'
+						}, {
+	                            title: '',
+	                            filename: '2.jpg'
+						}, {
+	                            title: '',
+	                            filename: '3.jpg'
+						}, {
+	                            title: '',
+	                            filename: '4.jpg'
+						}, {
+	                            title: '',
+	                            filename: '5.jpg'
+						}, {
+	                            title: '',
+	                            filename: '6.jpg'
+						}, {
+	                            title: '',
+	                            filename: '7.jpg'
+						}, {
+	                            title: '',
+	                            filename: '8.jpg'
+						}, {
+				    title: '',
+	                            filename: '9.jpg'
+						}, 
+				]	
+				},
+				{
+				title: "Vergil's Birthday", 
+				description: "On October 15th, AP Latin students celebrate the naming ceremony of Vergil, a highly honored poet from the Augustan period.",
+				thumbnail:"img/albums/vergilsbirthday2018/IMG_5191.jpg", 
+				filepath:"vergilsbirthday2018",
+				images:[
+				{ 
+				    title: '',
+	                            filename: 'IMG_5163.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5164.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5165.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5167.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5169.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5170.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5172.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5178.jpg'
+						}, {
+	                            title: '',
+	                            filename: 'IMG_5179.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5180.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5184.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5186.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5189.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5191.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5193.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5197.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5199.jpg'
+						}, {
+				    title: '',
+	                            filename: 'IMG_5200.jpg'
+						},
+				]	
+				},
+				{
 				title: "Rome's Birthday", 
 				description: "April 21st, Rome's birthday, is one of TJ Latin's largest and liveliest celebrations of the year. In addition to having a she-wolf piñata to signify Rome's founding, we play exciting spin-offs of myth and history: 'Turnus' Throw' and 'Escape from Rome.' In the first, challengers test their strength by throwing an immense boulder (beanbag); in the second, players hurdle over a wall of bricks. The catch is, the wall gets taller and taller every round! Despite the 'infelicissimi venti,' everyone had an amazing time. Photo credits to Webmaster Shawin Vitsupakorn.",
 				thumbnail:"img/albums/romesbirthday2018/IMG_8562.jpg", 
