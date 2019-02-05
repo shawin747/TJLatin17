@@ -172,7 +172,7 @@
 	        };
 	    })
 	    .controller('ScribeCtrl', function ($scope, $sce) {
-	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/1lZ4JIfN93tsAcQL6XGeyY3Yx4bDQMtRV/view?usp=sharing");
+	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/1lZ4JIfN93tsAcQL6XGeyY3Yx4bDQMtRV/preview");
 
 	        $scope.yearLinks = {
 	            	"2011-12": [
@@ -224,7 +224,7 @@
 			],
 			"2018-19": [
 			{
-				month: "Fall & Winter", link: "https://drive.google.com/file/d/1lZ4JIfN93tsAcQL6XGeyY3Yx4bDQMtRV/view?usp=sharing"
+				month: "Fall & Winter", link: "https://drive.google.com/file/d/1lZ4JIfN93tsAcQL6XGeyY3Yx4bDQMtRV/preview"
 			},
 			],
 	        	};
