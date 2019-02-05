@@ -172,7 +172,7 @@
 	        };
 	    })
 	    .controller('ScribeCtrl', function ($scope, $sce) {
-	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/1lZ4JIfN93tsAcQL6XGeyY3Yx4bDQMtRV/preview);
+	        $scope.currentUrl = $sce.trustAsResourceUrl("https://drive.google.com/file/d/1lZ4JIfN93tsAcQL6XGeyY3Yx4bDQMtRV/preview");
 
 	        $scope.yearLinks = {
 	            	"2011-12": [
