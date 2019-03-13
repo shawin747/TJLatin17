@@ -249,8 +249,129 @@
 	    .controller('ImageCtrl', function ($scope, $sce) {
 	        $scope.browsingAlbums = true;
 
-	        $scope.years = ["2018", "2017", "2016", "2015", "2014"];
+	        $scope.years = ["2019","2018", "2017", "2016", "2015", "2014"];
 	        $scope.thumbs = {
+			"2019": [
+				{
+				title: "iNite",
+				description: "TJ Latin proved that they could not only dance but also act during their extraordinary performance of the story of Orpheus and Eurydice!",
+				thumbnail: "img/albums/inite2019/IMG_9273.JPG",
+				filepath: "inite2019",
+				images:[
+				{
+					title:'',
+					filename:'51668561_1103514033161598_2866199399388676096_n.jpg'
+						},{
+					title:'',
+					filename:'IMG_9266.JPG'
+						},{
+					filename:'IMG_9267.JPG'
+						},{
+					filename:'IMG_9269.JPG'
+						},{
+					filename:'IMG_9270.JPG'
+						},{
+					filename:'IMG_9271.JPG'
+						},{
+					filename:'IMG_9273.JPG'
+						},{
+					filename:'IMG_9274.JPG'
+						},{
+					filename:'IMG_9275.JPG'
+						},{
+					filename:'IMG_9276.JPG'
+						},
+					]
+				},
+				{
+				title: "Certamen",
+				description: "TJ Latin held our own very successful Certamen!",
+				thumbnail: "img/albums/tjcertamen2019/IMG_1042.JPG",
+				filepath: "tjcertamen2019",
+				images:[
+				{
+					title:'',
+					filename:'IMG_1018.JPG'
+						},{
+					title:'',
+					filename:'IMG_1019.JPG'
+						},{
+					filename:'IMG_1020.JPG'
+						},{
+					filename:'IMG_1021.JPG'
+						},{
+					filename:'IMG_1022.JPG'
+						},{
+					filename:'IMG_1023.JPG'
+						},{
+					filename:'IMG_1026.JPG'
+						},{
+					filename:'IMG_1027.JPG'
+						},{
+					filename:'IMG_1028.JPG'
+						},{
+					filename:'IMG_1029.JPG'
+						},{
+					filename:'IMG_1030.JPG'
+						},{
+					filename:'IMG_1031.JPG'
+						},{
+					filename:'IMG_1032.JPG'
+						},{
+					filename:'IMG_1033.JPG'
+						},{
+					filename:'IMG_1034.JPG'
+						},{
+					filename:'IMG_1035.JPG'
+						},{
+					filename:'IMG_1036.JPG'
+						},{
+					filename:'IMG_1037.JPG'
+						},{
+					filename:'IMG_1038.JPG'
+						},{
+					filename:'IMG_1039.JPG'
+						},{
+					filename:'IMG_1040.JPG'
+						},{
+					filename:'IMG_1041.JPG'
+						},{
+					filename:'IMG_1042.JPG'
+						},{
+					filename:'IMG_1043.JPG'
+						},{
+					filename:'IMG_1044.JPG'
+						},{
+					filename:'IMG_1045.JPG'
+						},{
+					filename:'IMG_1046.JPG'
+						},{
+					filename:'IMG_1047.JPG'
+						},{
+					filename:'IMG_1048.JPG'
+						},{
+					filename:'IMG_1049.JPG'
+						},{
+					filename:'IMG_1050.JPG'
+						},{
+					filename:'IMG_3103.JPG'
+						},{
+					filename:'IMG_3104.JPG'
+						},{
+					filename:'IMG_3105.JPG'
+						},{
+					filename:'IMG_3107.JPG'
+						},{
+					filename:'IMG_3108.JPG'
+						},{
+					filename:'IMG_3109.JPG'
+						},{
+					filename:'IMG_3110.JPG'
+						},
+					]
+				},]	
+				},
+				],		
 			"2018": [ 
 				{
 				title: "Myth Pumpkins", 
