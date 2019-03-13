@@ -368,8 +368,7 @@
 						},{
 					filename:'IMG_3110.JPG'
 						},
-					]
-				},	
+				]	
 				},
 				],		
 			"2018": [ 
@@ -505,7 +504,6 @@
 						}, 
 				]	
 				},
-				
 				{
 				title: "VJCL Convention", 
 				description: "Going to Convention is always a fun time for our students because we all enjoy the camraderie!",
