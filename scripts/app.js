@@ -253,8 +253,99 @@
 	        $scope.thumbs = {
 			"2019": [
 				{
+				title: "Rome's Birthday",
+				description: "TJ Latin celebrates Rome's birthday on April 21st!",
+				thumbnail: "img/albums/romesbirthday2019/IMG_4089.JPG",
+				filepath: "romesbirthday2019",
+				images:[
+				{
+					title:'',
+					filename:'IMG_3750.JPG'
+						},{
+					title:'',
+					filename:'IMG_3751.JPG'
+						},{
+					filename:'IMG_3752.JPG'
+						},{
+					filename:'IMG_3753.JPG	'
+						},{
+					filename:'IMG_2951.JPG'
+						},{
+					filename:'IMG_3756.JPG'
+						},{
+					filename:'IMG_3760.JPG'
+						},{
+					filename:'IMG_3763.JPG'
+						},{
+					filename:'IMG_3766.JPG'
+						},{
+					filename:'IMG_3767.JPG'
+						},{
+					filename:'IMG_3774.JPG'
+						},{
+					filename:'IMG_3775.JPG'
+						},{
+					filename:'IMG_3778.JPG'
+						},{
+					filename:'IMG_3779.JPG	'
+						},{
+					filename:'IMG_3780.JPG'
+						},{
+					filename:'IMG_4101.JPG'
+						},{
+					filename:'IMG_4099.JPG'
+						},{
+					filename:'IMG_4098.JPG'
+						},{
+					filename:'IMG_4089.JPG'
+						},{
+					filename:'IMG_4077.JPG'
+						},{
+					filename:'IMG_4076.JPG'
+						},{
+					filename:'IMG_4074.JPG'
+						},{
+					filename:'IMG_4072.JPG'
+						},{
+					filename:'IMG_4067.JPG'
+						},{
+					filename:'IMG_4066.JPG'
+						},{
+					filename:'IMG_4064.JPG'
+						},{
+					filename:'IMG_4061.JPG'
+						},{
+					filename:'IMG_4059.JPG'
+						},{
+					filename:'IMG_4048.JPG'
+						},{
+					filename:'IMG_4035.JPG'
+						},{
+					filename:'IMG_4031.JPG'
+						},{
+					filename:'IMG_4027.JPG'
+						},{
+					filename:'IMG_4024.JPG'
+						},{
+					filename:'IMG_4019.JPG'
+						},{
+					filename:'IMG_4016.JPG'
+						},{
+					filename:'IMG_3863.JPG'
+						},{
+					filename:'IMG_3862.JPG'
+						},{
+					filename:'IMG_3815.JPG'
+						},{
+					filename:'IMG_3802.JPG'
+						},{
+					filename:'IMG_3798.JPG'
+						},
+					]
+				},
+				{
 				title: "Military Reenactment",
-				description: "TJ's Latin 3's acted out the story of ",
+				description: "TJ's Latin 3's Re-enacted a Roman battle during class to help them have a better understanding of their military unit!",
 				thumbnail: "img/albums/Militaryreenactment2019/IMG_2921.JPG",
 				filepath: "Militaryreenactment2019",
 				images:[
