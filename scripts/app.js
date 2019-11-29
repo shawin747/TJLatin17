@@ -253,6 +253,66 @@
 	        $scope.thumbs = {
 			"2019": [
 				{
+				title: "Ice Cream Social",
+				description: "Off to a great start this year with a delicious ice cream social!",
+				thumbnail: "img/albums/icecreamsocial2019/icecream9.jpg",
+				filepath: "icecreamsocial2019",
+				images: [
+				{
+					title:'',
+					filename:'icecream1.jpg'
+						},{
+					title:'',
+					filename:'icecream2.jpg'
+						},{
+					title:'',
+					filename:'icecream3.jpg'
+						},{
+					title:'',
+					filename:'icecream4.jpg'
+						},{
+					title:'',
+					filename:'icecream5.jpg'
+						},{
+					title:'',
+					filename:'icecream6.jpg'
+						},{
+					title:'',
+					filename:'icecream7.jpg'
+						},{
+					title:'',
+					filename:'icecream8.jpg'
+						},{
+					title:'',
+					filename:'icecream9.jpg'
+						},{
+					title:'',
+					filename:'icecream10.jpg'
+						},{
+					title:'',
+					filename:'icecream11.jpg'
+						},{
+					title:'',
+					filename:'icecream12.jpg'
+						},{
+					title:'',
+					filename:'icecream13.jpg'
+						},{
+					title:'',
+					filename:'icecream14.jpg'
+						},{
+					title:'',
+					filename:'icecream15.jpg'
+						},{
+					title:'',
+					filename:'icecream16.jpg'
+						},{
+					title:'',
+					filename:'icecream17.jpg'
+						},
+					]
+				},
+				{
 				title: "Rome's Birthday",
 				description: "TJ Latin celebrates Rome's birthday on April 21st!",
 				thumbnail: "img/albums/romesbirthday2019/IMG_4089.JPG",
