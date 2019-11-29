@@ -255,8 +255,8 @@
 				{
 				title: "Ice Cream Social",
 				description: "Off to a great start this year with a delicious ice cream social!",
-				thumbnail: "img/albums/icecreamsocial2019/icecream9.jpg",
-				filepath: "icecreamsocial2019",
+				thumbnail: "img/albums/Icecreamsocial2019/icecream9.jpg",
+				filepath: "Icecreamsocial2019",
 				images: [
 				{
 					title:'',
