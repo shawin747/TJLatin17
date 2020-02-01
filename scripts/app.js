@@ -260,61 +260,61 @@
 				images: [
 				{
 					title:'',
-					filename:'fullsizeoutput_16a0.jpg'
+					filename:'fullsizeoutput_16a0.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a1.jpg'
+					filename:'fullsizeoutput_16a1.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a2.jpg'
+					filename:'fullsizeoutput_16a2.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a3.jpg'
+					filename:'fullsizeoutput_16a3.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a4.jpg'
+					filename:'fullsizeoutput_16a4.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a5.jpg'
+					filename:'fullsizeoutput_16a5.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a6.jpg'
+					filename:'fullsizeoutput_16a6.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a7.jpg'
+					filename:'fullsizeoutput_16a7.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a8.jpg'
+					filename:'fullsizeoutput_16a8.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a9.jpg'
+					filename:'fullsizeoutput_16a9.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16aa.jpg'
+					filename:'fullsizeoutput_16aa.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16ab.jpg'
+					filename:'fullsizeoutput_16ab.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16ac.jpg'
+					filename:'fullsizeoutput_16ac.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169a.jpg'
+					filename:'fullsizeoutput_169a.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169b.jpg'
+					filename:'fullsizeoutput_169b.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169c.jpg'
+					filename:'fullsizeoutput_169c.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169d.jpg'
+					filename:'fullsizeoutput_169d.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169e.jpg'
+					filename:'fullsizeoutput_169e.jpeg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169f.jpg'
+					filename:'fullsizeoutput_169f.jpeg'
 						},
 					]
 				},
