@@ -253,69 +253,309 @@
 	        $scope.thumbs = {
 			"2019": [
 				{
-				title: "Vergil's Birthday",
-				description: "Our AP class is thrilled to be celebrating the birth of the OG.",
-				thumbnail: "img/albums/VergilsBirthday/fullsizeoutput_16a0.jpg"
-				filepath: "VergilsBirthday",
+				title: "Convention 2019",
+				description: "TJ rocked the house at Virginia JCL Convention",
+				thumbnail: "img/albums/Convention2019Part1/_DSC7886.jpg"
+				filepath: "Convention2019Part1",
 				images: [
 				{
 					title:'',
-					filename:'fullsizeoutput_16a0.jpeg'
+					filename:'_DSC6597.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a1.jpeg'
+					filename:'_DSC6598.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a2.jpeg'
+					filename:'_DSC6599.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a3.jpeg'
+					filename:'_DSC6601.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a4.jpeg'
+					filename:'_DSC6605.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a5.jpeg'
+					filename:'_DSC6606.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a6.jpeg'
+					filename:'_DSC6608.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a7.jpeg'
+					filename:'_DSC6611.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a8.jpeg'
+					filename:'_DSC6613.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16a9.jpeg'
+					filename:'_DSC6630.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16aa.jpeg'
+					filename:'_DSC6632.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16ab.jpeg'
+					filename:'_DSC6634.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_16ac.jpeg'
+					filename:'_DSC6636.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169a.jpeg'
+					filename:'_DSC6643.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169b.jpeg'
+					filename:'_DSC6651.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169c.jpeg'
+					filename:'_DSC6665.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169d.jpeg'
+					filename:'_DSC6672.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169e.jpeg'
+					filename:'_DSC6674.jpg'
 						},{
 					title:'',
-					filename:'fullsizeoutput_169f.jpeg'
-						},
+					filename:'_DSC6679.jpg'
+						},{
+					title:'',
+					filename:'_DSC6700.jpg'
+						},{
+					title:'',
+					filename:'_DSC6708.jpg'
+						},{
+					title:'',
+					filename:'_DSC6713.jpg'
+						},{
+					title:'',
+					filename:'_DSC6723.jpg'
+						},{
+					title:'',
+					filename:'_DSC6739.jpg'
+						},{
+					title:'',
+					filename:'_DSC6747.jpg'
+						},{
+					title:'',
+					filename:'_DSC6754.jpg'
+						},{
+					title:'',
+					filename:'_DSC6759.jpg'
+						},{
+					title:'',
+					filename:'_DSC6768.jpg'
+						},{
+					title:'',
+					filename:'_DSC6798.jpg'
+						},{
+					title:'',
+					filename:'_DSC6816.jpg'
+						},{
+					title:'',
+					filename:'_DSC6861.jpg'
+						},{
+					title:'',
+					filename:'_DSC6885.jpg'
+						},{
+					title:'',
+					filename:'_DSC6936.jpg'
+						},{
+					title:'',
+					filename:'_DSC6968.jpg'
+						},{
+					title:'',
+					filename:'_DSC6982.jpg'
+						},{
+					title:'',
+					filename:'_DSC6991.jpg'
+						},{
+					title:'',
+					filename:'_DSC6994.jpg'
+						},{
+					title:'',
+					filename:'_DSC6997.jpg'
+						},{
+					title:'',
+					filename:'_DSC7021.jpg'
+						},{
+					title:'',
+					filename:'_DSC7061.jpg'
+						},{
+					title:'',
+					filename:'_DSC7075.jpg'
+						},{
+					title:'',
+					filename:'_DSC7113.jpg'
+						},{
+					title:'',
+					filename:'_DSC7118.jpg'
+						},{
+					title:'',
+					filename:'_DSC7140.jpg'
+						},{
+					title:'',
+					filename:'_DSC7166.jpg'
+						},{
+					title:'',
+					filename:'_DSC7182.jpg'
+						},{
+					title:'',
+					filename:'_DSC7190.jpg'
+						},{
+					title:'',
+					filename:'_DSC7248.jpg'
+						},{
+					title:'',
+					filename:'_DSC7262.jpg'
+						},{
+					title:'',
+					filename:'_DSC7302.jpg'
+						},{
+					title:'',
+					filename:'_DSC7352.jpg'
+						},{
+					title:'',
+					filename:'_DSC7359.jpg'
+						},{
+					title:'',
+					filename:'_DSC7439.jpg'
+						},{
+					title:'',
+					filename:'_DSC7449.jpg'
+						},{
+					title:'',
+					filename:'_DSC74478.jpg'
+						},{
+					title:'',
+					filename:'_DSC7597.jpg'
+						},{
+					title:'',
+					filename:'_DSC7602.jpg'
+						},{
+					title:'',
+					filename:'_DSC7626.jpg'
+						},{
+					title:'',
+					filename:'_DSC7628.jpg'
+						},{
+					title:'',
+					filename:'_DSC7651.jpg'
+						},{
+					title:'',
+					filename:'_DSC7664.jpg'
+						},{
+					title:'',
+					filename:'_DSC7681.jpg'
+						},{
+					title:'',
+					filename:'_DSC7720.jpg'
+						},{
+					title:'',
+					filename:'_DSC7727.jpg'
+						},{
+					title:'',
+					filename:'_DSC7733.jpg'
+						},{
+					title:'',
+					filename:'_DSC7757.jpg'
+						},{
+					title:'',
+					filename:'_DSC7770.jpg'
+						},{
+					title:'',
+					filename:'_DSC7781.jpg'
+						},{
+					title:'',
+					filename:'_DSC7795.jpg'
+						},{
+					title:'',
+					filename:'_DSC7804.jpg'
+						},{
+					title:'',
+					filename:'_DSC7810.jpg'
+						},{
+					title:'',
+					filename:'_DSC7826.jpg'
+						},{
+					title:'',
+					filename:'_DSC7847.jpg'
+						},{
+					title:'',
+					filename:'_DSC7886.jpg'
+						},{
+					title:'',
+					filename:'_DSC7901.jpg'
+						},{
+					title:'',
+					filename:'_DSC7910.jpg'
+						},{
+					title:'',
+					filename:'_DSC8968.jpg'
+						},{
+					title:'',
+					filename:'_DSC8974.jpg'
+						},{
+					title:'',
+					filename:'_DSC8975.jpg'
+						},{
+					title:'',
+					filename:'_DSC8976.jpg'
+						},{
+					title:'',
+					filename:'_DSC8980.jpg'
+						},{
+					title:'',
+					filename:'_DSC8981.jpg'
+						},{
+					title:'',
+					filename:'_DSC8994.jpg'
+						},{
+					title:'',
+					filename:'_DSC9007.jpg'
+						},{
+					title:'',
+					filename:'_DSC9009.jpg'
+						},{
+					title:'',
+					filename:'_DSC9011.jpg'
+						},{
+					title:'',
+					filename:'_DSC9012.jpg'
+						},{
+					title:'',
+					filename:'_DSC9016.jpg'
+						},{
+					title:'',
+					filename:'_DSC9018.jpg'
+						},{
+					title:'',
+					filename:'_DSC9024.jpg'
+						},{
+					title:'',
+					filename:'_DSC9032.jpg'
+						},{
+					title:'',
+					filename:'_DSC9047.jpg'
+						},{
+					title:'',
+					filename:'_DSC9054.jpg'
+						},{
+					title:'',
+					filename:'_DSC9058.jpg'
+						},{
+					title:'',
+					filename:'_DSC9066.jpg'
+						},{
+					title:'',
+					filename:'_DSC9072.jpg'
+						},{
+					title:'',
+					filename:'_DSC9073.jpg'
+						},{
+					title:'',
+					filename:'_DSC9074.jpg'
+						},{
+					title:'',
+					filename:'_DSC9076.jpg'
+						}
 					]
 				},
 				{
