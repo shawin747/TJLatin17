@@ -253,6 +253,72 @@
 	        $scope.thumbs = {
 			"2019": [
 				{
+				title: "Vergil's Birthday",
+				description: "Our AP class is thrilled to be celebrating the birth of the OG.",
+				thumbnail: "img/albums/VergilsBirthday/fullsizeoutput_16a0.jpg"
+				filepath: "VergilsBirthday",
+				images: [
+				{
+					title:'',
+					filename:'fullsizeoutput_16a0.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a1.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a2.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a3.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a4.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a5.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a6.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a7.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a8.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16a9.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16aa.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16ab.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_16ac.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_169a.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_169b.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_169c.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_169d.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_169e.jpg'
+						},{
+					title:'',
+					filename:'fullsizeoutput_169f.jpg'
+						},
+					]
+				},
+				{
 				title: "Ice Cream Social",
 				description: "Off to a great start this year with a delicious ice cream social!",
 				thumbnail: "img/albums/Icecreamsocial2019/icecream9.jpg",
